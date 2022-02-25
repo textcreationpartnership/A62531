@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tickler tickled, or, The observator upon the late tryals of Sir George Wakeman, &amp;c. observed by Margery Mason, spinster.</title>
+            <author>Mason, Margery.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62531</idno>
+            <idno type="STC">Wing T1159</idno>
+            <idno type="STC">ESTC R17914</idno>
+            <idno type="EEBO-CITATION">12039339</idno>
+            <idno type="OCLC">ocm 12039339</idno>
+            <idno type="VID">52949</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62531)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52949)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 401:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tickler tickled, or, The observator upon the late tryals of Sir George Wakeman, &amp;c. observed by Margery Mason, spinster.</title>
+                  <author>Mason, Margery.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Brewster,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A review of Some observations upon the late tryals of Sir George Wakeman ... by Tom Ticklefoot [i.e. Francis Smith].</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wakeman, George, --  Sir, fl. 1668-1685.</term>
+               <term>Smith, Francis, d. 1688. --  Some observations upon the late tryals of Sir George Wakeman.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52949:1"/>
+            <pb facs="tcp:52949:1" rendition="simple:additions"/>
+            <p>The Tickler TICKLED: OR THE OBSERVATOR Upon the Late Tryals of Sir <hi>GEORGE WAKEMAN,</hi> &amp;c. OBSERVED:</p>
+            <p>By <hi>MARGERY MASON</hi> Spinſter.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. Brewſter,</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:52949:2"/>
+            <pb n="1" facs="tcp:52949:2"/>
+            <head>The TICKLER Tickled: OR, The OBSERVATOR upon the Late Tri<g ref="char:EOLhyphen"/>als of Sir <hi>GEORGE WAKEWAN,</hi> &amp;c. Obſerved.</head>
+            <p>LET no body wonder at this Attempt, as an Argument of over<g ref="char:EOLhyphen"/>weening, when ſo many of our Sex are become Statiſts; but I being nothing Concern'd at other Ladies Actions, will only give the Reader, as introductory to my Obſervations, a ſhort Account of my own Life. I was Placed with a Beautiful Lady of Great Quality about Court, as Superintendant of her <hi>Limbecks, Preſerving-Pans,</hi> and <hi>Waſhes;</hi> by which Means, I became the chief Confident, as being privy to all her Intrigues. My Lady paſt off her Youthful Years pleaſurably enough both to her ſelf, and me; for the Freſh Lovers that flock'd daily (to whom my Lady was never hard-hearted) were free of their Money, both to her ſelf and Servants; but when my Lady became a little Superannuated, and was forced to ſend Ambaſſadors to her former Idolaters, the Caſe, (as to Money) came to be quite alter'd; ſo we liv'd upon the Spoil, but yet pretty even and even; but her Ladiſhip at laſt came to give Boots, then there was no longer Abiding for me; ſo I thought fit to retire whilſt I had ſome Money, and Beauty left; ſo accord<g ref="char:EOLhyphen"/>ingly did, into <hi>Chancery</hi>-Lane, turn'd Sempſtreſs: where
+<q>
+                  <l>—Shop I keep for Countenance</l>
+                  <l>But—is my Suſtenance.</l>
+                  <bibl>
+                     <hi>Chaucer.</hi>
+                  </bibl>
+               </q>
+            </p>
+            <p>And now having a little knack in Book-learning, I diverted my ſelf this dead Vacation time with reading and comparing the late Tryals, with the Obſervations of Captain <hi>Ticklefoot,</hi> (for why not Captain <hi>Ticklefoot</hi> as well as Captain <hi>Bedloe?</hi>) They indeed are too
+<pb n="2" facs="tcp:52949:3"/>unmannerly upon the Chief Magiſtrate, for it layes matters too open; they are likewiſe ſo rude upon the Ladies that came to atteſt the Truth, as is not at all ſuitable to the Generoſity of a <hi>Chivaleer,</hi> for to treat a Lady of Mrs. <hi>Ellen Rigby</hi>'s Quality, with the name of Bitch-Fox, and three penny Baggage, is not at all <hi>
+                  <g ref="char:V">Ʋ</g>rbane.</hi> There were ſome undecencies about the other Gentlewomen, which are not worth our Confutation; ſo now I will modeſtly, as becomes our Sex, examine the whole matter.</p>
+            <p>The Detractors indeed do ſay, which I cannot help, if I was to be hang'd, that my Lord C. J. carriage did not ſeem even, as not at all quadrating with the former Tryals. The only way to judge whe<g ref="char:EOLhyphen"/>ther the Detractors be Rogues or no, is to lay down matters fairly, as they were tranſacted in <hi>Wakeman's</hi> Tryal, and compare them with parallel caſes in the Tryals of the Convicted Perſons. But before I fall into the main Buſineſs, I muſt have the other fling at Captain <hi>Ticklefoot,</hi> who is too ſevere in reflecting upon a Deſcent there; I ſuppoſe he hath ſome <hi>Brittiſh</hi> Bloud in him, and had a Knight to his Anceſtor, or is a kin to ſome body that is a kin to a Lord, he would have had more Wit elſe, than to have objected againſt any body what is not in his power to help, he might have remembred that Worthy Saying of <hi>Cicero, I had rather be the Firſt than the Laſt of my Family;</hi> as likewiſe the Brave Atchievements of that great man, how he ran down a Plot in his Conſulſhip, Back'd by ſo many of the <hi>Patricians,</hi> and Chief Nobility, nay, <hi>Caeſar</hi> himſelf was not free; it was ſo Back'd as the Rebels were able, upon Diſcovery, to Di<g ref="char:EOLhyphen"/>ſpute the Matter by Arms; yet that Muſhrom-Orator, that man of no Images, by his own proper virtue brought it to light, and the Traytors to Puniſhment, notwithſtanding that great Abetting<g ref="char:punc">▪</g> Or, he might have remembred, had he read Authors, what that great Capt. <hi>Cajus Marius</hi> ſaid in his Oration to the People of <hi>Rome,</hi> when he ſtood Candidate for General in the <hi>Jugurthian</hi> Wars, when his want of Nobility was objected againſt him: <hi>Nobilitatem certe Pepe<g ref="char:EOLhyphen"/>riſſe melius eſt, quam Acceptam Corupiſſe;</hi> (for <hi>Padge</hi> hath a Smack at <hi>Latin,</hi> but let them <hi>Engliſh</hi> it that will.) And I think my Lord <hi>C. J.</hi> has done his Part as to every thing till of late; and whether well or no now, is to be enquired into by Circumſtances. In the Trials of <hi>Whitebread</hi> and his Fellows, when the Sixteen Witneſſes were brought over from S. <hi>Omers,</hi> to prove <hi>Oates</hi> in a Lie about the Time of the Conſult, his Lordſhip, I muſt confeſs, animadverted very ſarcaſtically upon them, by ſaying, their Teſtimony was alike to be believed, though not upon Oath, as if they had been Sworn, <hi>becauſe they are of a Religion that can diſpenſe with Oaths, though Falſe, for the ſake of a Good Cauſe.</hi> And then Reflecting upon the Nature of the men, he goes on very floridly, and tells the Jury, <hi>That they are Proſelites, and young Striplings of their Church, which does indeed, in one reſpect or other, abuſe all her Diſciples, and keep them in a blind Obedience to purſue and effect all her Commands:</hi> And then going on, ſayes of the Wit<g ref="char:EOLhyphen"/>neſſes, That <hi>they were young Boyes ſent for hither on purpoſe to give this
+<pb n="3" facs="tcp:52949:3"/>Teſtimony; and though it be no Fault in the Priſoners to ſend for what Evidence they could; but it is very doubtful and ſuſpitious to have ſuch green and flexible Minds thus employed<g ref="char:punc">▪</g> and I muſt leave it to you;</hi> Meaning the Jury, <hi>to conſider how far theſe Young men, Trained in ſuch Principles, may be prevailed on to ſpeak what is not true.</hi>
+            </p>
+            <p>And then, alter his Lordſhip had done what became him by run<g ref="char:EOLhyphen"/>ning down the School-Boyes Evidence, makes this as a Natural Infe<g ref="char:EOLhyphen"/>rence, That <hi>they cannot want Witneſs to prove what they pleaſe; for I believe there is none of them all will make any Bones of it.</hi>
+            </p>
+            <p>It cannot be ſaid, I muſt confeſs, that there was any ſuch pains taken to run down the Credit of the Gentlewomen that came to in<g ref="char:EOLhyphen"/>validate <hi>Oats</hi> his Teſtimony, upon the account of their Religion, or of their Sex, very prevailable upon to ſpeak what often is not true; for the firſt was never ſo much as hinted, nor ſo much neither as that they were not upon their Oaths, which there was great care taken for in the St. <hi>Omers</hi> Boyes. I muſt confeſs, my Lords treating Mr. <hi>Oats</hi> about the witneſs <hi>Nell Rigby,</hi> is a wonder to me; for his words are ſo plain, that they imply he has lyed all this while, and is to be believed no more. <hi>'Tis well obſerved</hi> (ſayes he) <hi>that he was a beg<g ref="char:EOLhyphen"/>ging there;</hi> viz. at <hi>Pickering</hi>'s formerly executed. <hi>'Tis very much that ſuch a man ſhould know of ſuch a Deſign on foot, and they uſe him on that manner;</hi> and concludes, <hi>that that amongſt other things was worthy conſideration.</hi> My Lord was pleaſed to gallant Mrs. <hi>Sheldon</hi> and <hi>Alice Broadhead</hi> at the ſame rate, by allowing their tale, though it was in the Negative, that Mr. <hi>Corker</hi> did never officiate as the Preſident of the <hi>Benedictines,</hi> which made Dr. <hi>O<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es</hi> his Evidence ineffectual. I muſt not forget, amongſt all, my Lord's great Complement to the City, which it may be pleas'd ſome as much as the Verdict did pleaſe others; <hi>We have a Bench of Aldermen</hi> (ſayes he) <hi>have more wit than the Conclave, and a Lord Mayor that is as infallible as the Pope.</hi> Now if all theſe things put together deſerve another name than fair pra<g ref="char:EOLhyphen"/>ctice, I, poor <hi>Madge,</hi> cannot help it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="4" facs="tcp:52949:4"/>
+            <head>POSTSCRIPT.</head>
+            <p>BUt to come to the Point; here are Three men Indicted for no leſs than High Treaſon (for <hi>Rumley</hi> is to be omitted, the proof againſt him, being juſtly allow'd to be imperfect) one, for having un<g ref="char:EOLhyphen"/>dertaken (for a baſe Reward of Money, to have poyſon'd a great Monarch, his Lawful Prince and Sovereign; a King, and conſequent<g ref="char:EOLhyphen"/>ly, by vertue of his Office, Sacred in his Perſon, as being Eleva<g ref="char:EOLhyphen"/>ted to the High Dignity of a God upon Earth by the Affirmative of never-erring Scripture it ſelf: or Crime ſo enormous, ſo void (to ſet Religion aſide) of thoſe common Dictates of Heatheniſh Morality, that it was never ſo remarkably violated) till <hi>Judas,</hi> and the Murde<g ref="char:EOLhyphen"/>rers of his Father taught the way: A Crime to have been committed againſt a Majeſty, ſo mild, ſo tender of enforcing Conſcience, ſo in<g ref="char:EOLhyphen"/>dulgent, that he frequently diſpenſed with the Rigour of his own Laws, to mitigate their puniſhment; interpoſing, in hopes of reclaim<g ref="char:EOLhyphen"/>ing them, between them and the violent proſecution of an incenſed Parliament. And yet, for all this, Mercy it ſelf muſt be aſſaſſinated, or poyſoned. What can we think, but that men, who dare attempt ſuch ungodly Maſſacres upon the holy perſon of a God upon Earth, would not ſtick for double the Sum, to poyſon their Creator him<g ref="char:EOLhyphen"/>ſelf, at the inſtigation of the Devil, his great Adverſary were it with<g ref="char:EOLhyphen"/>in the Verge of their proſtituted <hi>Recipe's?</hi> But happy the Gentle<g ref="char:EOLhyphen"/>man was under the Bonds of Confeſſion. And then,<note>
+                  <hi>Hennam Conringeus,</hi> De Re<g ref="char:EOLhyphen"/>bus Publicis totius Orbis.</note> 
+               <hi>Better that all the Kings of the Earth ſhould periſh, than that the Seat of Confeſſion ſhould be broken;</hi> as <hi>Binetus</hi> the Jeſuite told the Learned <hi>Caſaubon.</hi> Or elſe the Aſſertion of that other Jeſuite prevailed with him, who averr'd to the ſame <hi>Caſaubon</hi> in <hi>France, That if Chriſt were again upon Earth,</hi>
+               <note>
+                  <hi>Caſaubon</hi> in Reſpub. ad <hi>C. Terren.</hi>
+               </note> 
+               <hi>in a Condition ſubject to Death, and any one ſhould tell him that he had a Deſign to kill him, that he would ſuffer Chriſt to be murdered, rather than reveal the Confeſſion.</hi> Since then the Crime was ſo conſiderable, and the Conſequences of its being perpetrated, muſt have prov'd ſo fatal to the Nation, it cannot well be thought that an <hi>
+                  <g ref="char:V">Ʋ</g>nder-Sheriff</hi> alone was a fit perſon to be the ſole Judge of the probity and Judgment of a Jury that was to paſs their Verdict upon a Fact of ſo much weight, and ſo dreadful to the very Thoughts of His Majeſties Sub<g ref="char:EOLhyphen"/>jects in the iſſue of the Succeſs.</p>
+            <p>As for the other Two, though their Crimes were not abſolutely ſo great, yet were they hainous enough; they were both privy to the Conſpiracy, allowed it, foſtered and encouraged it; and were the Raiſers and Contributers of very large Sums towards the carry<g ref="char:EOLhyphen"/>ing it on.</p>
+            <p>As for the proof of the Endictments, it was certainly as bright as Summer Sun-ſhine; it is to be fear'd, too bright to dazzle the Eyes of ſo many mens Underſtandings. Then for the Defences of the
+<pb n="5" facs="tcp:52949:4"/>Priſoners, they were publickly allow'd to have been very mean, and that their Cauſe look'd much better before they were heard: which, the Jury (had they not been Adders) might have heard; for it was ſpoken loud enough. For what ſignifi'd all their procraſtinated En<g ref="char:EOLhyphen"/>deavours to ſhelter themſelves under the Scandals and Reproaches which they threw upon the King's Evidence? A Trick they had all uſed, though not with the ſame ſucceſs; and that's one thing that Reaſon profeſſes her ſelf to puzzled at: For what had the King's E<g ref="char:EOLhyphen"/>vidence done to render them more Flagitious than they were the for<g ref="char:EOLhyphen"/>mer Seſſions? Why to be leſs Credited than before? They had been as deep in the Plot as themſelves, 'tis true; but they had reclaim<g ref="char:EOLhyphen"/>ed themſelvs from their Diſloyalty, and by a ſeaſonable Diſcovery, had Ruin'd the Villanous Architecture of their Treachery; for which, they had receiv'd the King's Pardon; and ſo being <hi>Recti in Curia,</hi> were not to be canvaſs'd by the foul Mouths of thoſe that laid hold of every Rotten Bough to ſave themſelves. And it was a hard Caſe that they ſhould ſtand there as at a Stake, rather to be Baited, than Examined: But ſuppoſe them guilty of the Luxuriant Miſdemeanors of the Age, what Law is there in any Nation that we know of, that excludes an Adulterer, an Atheiſt, a Fornicator, or a Drunkard, a Proud, or a Covetous man from giving his Teſtimony, either in Cri<g ref="char:EOLhyphen"/>minal, or Civil Cauſes? A man may love Wine, or a Miſtreſs, be vain in his Diſcourſe, cheriſh his Avarice, or his Ambition, yet loath Conſpiracy, Diſloyalty to his Prince, and Treachery to his Countrey. Vicious men are ſeldom guilty of accumulated Vice; but ſetting aſide the particular Inclination of Nature, are in other things morally Juſt and Honeſt, religiouſly giving to <hi>Caeſar</hi> that which is <hi>Caeſar</hi>'s, and abominating the Foot-ſteps of ſeemingly pious and ſober Villany.</p>
+            <p>To reproach their Need and Exigency, was as little to their Ad<g ref="char:EOLhyphen"/>vantage: For who, can any man think would do the Drudgery of a Plot, carry Letters, and Portmanteaus from place to place, run from poſt to pillar, and be at the Beck of Inferior Superiority, but they who had not their fat Benevolences and Rewards to ſupport them? Surely they would not have had the Lords in the Tower have run upon their Errands. Neither could there be a greater Symptom of urging Neceſſity, than for a man to accept of Money to murder his Prince. Why did not they, that boaſt ſo much Sobrie<g ref="char:EOLhyphen"/>ty and Sanctity, make the Diſcovery themſelves, and put by theſe Flagitious Witneſſes from having the Hand? Very fine indeed!
+<q>Clodius accuſat Moechos—.</q>
+As if any but they, who had been as Flagitious as themſelves, could have ever diſcover'd their Deſigns! Would they have had the <hi>Prote<g ref="char:EOLhyphen"/>ſtants</hi> Divin'd them? Would they have had an Angel from Heaven have come on purpoſe to diſcloſe them? or elſe would they have had the Evil Spirit of <hi>Brutus</hi> to have riſen a third time? No certainly, they would not have had it reveal'd at all: But becauſe theſe per<g ref="char:EOLhyphen"/>ſons did reveal it, therefore they muſt be <hi>Flagitious. Fulvia</hi> and
+<pb n="6" facs="tcp:52949:5"/>
+               <hi>Sempronia,</hi> that reveal'd the Conſpiracy of <hi>Cataline,</hi> were both <hi>Cur<g ref="char:EOLhyphen"/>tezans,</hi> and yet they that read the Story, will not find, that either <hi>Cicero</hi> the Conſul, or the <hi>Roman</hi> Senate gave the leſs Credit to them for that. The <hi>Allobroges,</hi> at that time were <hi>Suppliants</hi> and <hi>Petitioners,</hi> and yet their Information paſt. Thus far upon the Suppoſition that they had been men of a looſe Life or neceſſitous; but here was no ſuch thing: there was not any one of their Accuſations or Reflecti<g ref="char:EOLhyphen"/>ons that they could prove againſt them. So that Reaſon, in the ſe<g ref="char:EOLhyphen"/>cond place, admires why there was ſo much freedom allow'd their laviſh Tongues; or that men ſhould be ſo much Moap'd in their Sences, to be carried away with ſuch a ſlight ſtream of falſe and proof<g ref="char:EOLhyphen"/>leſs Suggeſtions.</p>
+            <p>Such Anſwers as theſe were not ſo remote from the quick Apprehen<g ref="char:EOLhyphen"/>ſions of men of Buſineſs, but that they might eaſily have been pro<g ref="char:EOLhyphen"/>duc'd to defend the Reputation of the King's Evidence, from the Batteries of men in Deſpair, that verily believed their <hi>Buſineſs had been done,</hi> and therefore car'd not what they ſaid. Certainly ſome gentle Conſtellation reign'd that day, more tender-hearted than moiſt S. <hi>Swithin,</hi> or the weeping <hi>Pleiades;</hi> or elſe Mercy and Com<g ref="char:EOLhyphen"/>paſſion themſelves had ſome particular pique againſt <hi>Truth,</hi> and were reſolv'd to put an Affront upon her. But alas! Clemency had no hand in it.—The Witneſſes were Hirelings and Impoſtors.—But now, <hi>Laſſa Crudelitas</hi> began to grow penitent, and to cry <hi>Peccavi</hi> for her former Severity which will certainly be the Conſtruction of them that hereafter ſhall go to play the <hi>Cauſinus's</hi> with our Story.</p>
+            <p>The next Plea of the Priſoners was, That the Evidence were Stran<g ref="char:EOLhyphen"/>gers to them; and that they had ſtarted a New Charge; of which they declar'd themſelves utterly ignorant before the Council. A very ſtrange thing, that the Queſtion ſhould be all of a ſudden, whether Familiarity ſhould be neceſſary for the Conviction of ſuch ſecret and grand Delinquents? This was rather an Argument of the Truth. For what Motive can any Rational man propoſe, that ſhould induce per<g ref="char:EOLhyphen"/>ſons unacquainted with the priſoners, and conſequently, ſuch as could not be thought to have receiv'd any perſonal Injuries from them, out of a propenſe and ſtudi'd Malice to ſeek their Blood? Hopes of Reward—But that's a Scandal that blaſphemes the integrity of that Authority which gave the Teſtimonies countenance to proſecute; that impeaches both the <hi>Parliament</hi> and <hi>Council,</hi> as if they were the Rewarders of people to take away the Lives of the Innocent. They ſaw that apparently there was a <hi>Plot,</hi> and that there was a Deſign to take away the King's Life, and had as much reaſon to believe the In<g ref="char:EOLhyphen"/>formation of <hi>Clandeſtine Poyſoning,,</hi> as the <hi>Private Piſtolling.</hi> But theſe Witneſſes did know the <hi>Priſoners,</hi> and had ſeen them in the Company of the <hi>Conſpirators,</hi> had heard them diſcourſe together of the Deſign it ſelf, had ſeen the Acquittance for Receipt of the Mo<g ref="char:EOLhyphen"/>ney, and that by all the Circumſtances of the Diſcourſe, the Money could be paid upon no other account, than to poyſon the King, which was the thing at that time intended, and the thing then only ſpoken of. And this was certainly and moſt unanſwerably a know<g ref="char:EOLhyphen"/>ledge
+<pb n="7" facs="tcp:52949:5"/>ſufficient of the perſons, without any neceſſity that the King's Evidence ſhould be any farther, or more intimately acquainted with him. If a man ſees a Thief break a Houſe, it is not to be conceiv'd, that the Witneſs ſhould be conſtrained to go and drink a pot of Ale, and enter into a ſtrict League of Friendſhip with the Felon, be<g ref="char:EOLhyphen"/>fore he can accuſe him of the Felony.</p>
+            <p>As to the other Objection, That the Charge of the King's Evi<g ref="char:EOLhyphen"/>dence was not ſo ample before the Lords of the Council, as at the Bar of <hi>Oyer</hi> and <hi>Terminer;</hi> the Anſwer of the King's Evidence was very fair and probable; and the Reaſons of his Omiſſion, were as credibly Ballanced in his behalf, as the Averment againſt him<g ref="char:punc">▪</g> He was ſworn to be in a moſt weak and feeble condition, being tired by publick and eminent Service: And how far the Weakneſſes of the Body may diſorder the Faculties of the Mind, is not unknown to Vulgar Experience.</p>
+            <p>It was enough he charged him at the Bar, charged him home, and back'd his Charge with a Reſerve of Circumſtances ſufficiently convincing; and therefore there was no Neceſſity to aggravate and proſecute ſuch a prime Objection to ſuch an egregious height, as if it had been done on purpoſe to throw Diſgrace and Shame upon Deſert, to make way for unſeaſonable and untoward Com<g ref="char:EOLhyphen"/>paſſion.</p>
+            <p>This is not the Judgment of a few, but the general Murmur and Complaint, the general Voice of the People; for they are making their Queries in every Coffee Houſe, and cry, Why ſhould one man be hang'd for paying five thouſand Pound upon a treaſonable Ac<g ref="char:EOLhyphen"/>count, and another man be acquitted for receiving the ſame five thouſand Pounds, upon Account of the ſame Treaſon? Why the ſame Witneſſes ſhould condemn the one for the Payment, and be rejected.</p>
+            <p>As to the Receipt, ſeeing they ſwear as poſſitively to the one as the other, why the Memory of man ſhould fail at one particular Juncture ſo remarkably, as to leave out or forget the moſt Material Points of the Kings Evidence? Why the bare Allegations for the Cri<g ref="char:EOLhyphen"/>minals ſhould be ſo lugg'd and careſſed, and an Oath of ſpotleſs Cre<g ref="char:EOLhyphen"/>dit for the King, look'd upon as a meer Intruder, and paſs'd by with as little Reſpect? What Neceſſity or Provocation was given by the Kings Evidence to be publickly upbraided with Beggery, upon the ſlighter Tittle Tattle of an idle thing in Petticoats; How there came to be ſo much Courtſhip us'd toward <hi>Corkers</hi> two <hi>Miſſes,</hi> that their Tale ſhould be ſo courteouſly allowed that had neither head nor Taile? Why Matters ſhould be ſo ill managed, that the Kings Witneſſes ſhould have Occaſion to complain, that his Evidence was not rightly ſumm'd up? And wherefore for ſuch a Requiſite Piece of Unmannerlineſs, he ſhould be ſo ſeverely check'd and frown'd upon.</p>
+            <pb n="8" facs="tcp:52949:6" rendition="simple:additions"/>
+            <p>Laſtly, What was the meaning of ſo many Foreign Viſits, which, upon what Account ſoever they were, were then neither prudently nor warily admitted at that time?</p>
+            <p>Now though the people ask theſe Queſtions, yet, they ſay, that many of them can anſwer themſelves; or at leaſt, that there are cer<g ref="char:EOLhyphen"/>tain <hi>Davids</hi> among them, that can unfold all theſe Myſteries: but they are ſo ſurlie, that they cry, <hi>They will take their own Time;</hi> and ſo they muſt, if there be no other Remedie.</p>
+            <p>But what have theſe acquitted Offenders got by this Excuſe? 'Tis true, they are acquitted at the Bar of Common Trial, and ſo have ſav'd their Lives; but they are ſtill as guilty as ever, before the Tri<g ref="char:EOLhyphen"/>bunal of Reaſon: ſo that, although they are let looſe again into the World, yet 'tis with that indelible Mark of <hi>Cain,</hi> which at length they will carry to their Graves, after they have only led a Miſera<g ref="char:EOLhyphen"/>ble Life, rejected from the Society of all Good men, that are Lo<g ref="char:EOLhyphen"/>vers of their Prince and Countrey.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:52949:6"/>
+         </div>
+      </back>
+   </text>
+</TEI>
